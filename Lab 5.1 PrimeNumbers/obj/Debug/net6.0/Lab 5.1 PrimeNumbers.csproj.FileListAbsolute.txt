@@ -1,0 +1,15 @@
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\bin\Debug\net6.0\Lab 5.1 PrimeNumbers.exe
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\bin\Debug\net6.0\Lab 5.1 PrimeNumbers.deps.json
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\bin\Debug\net6.0\Lab 5.1 PrimeNumbers.runtimeconfig.json
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\bin\Debug\net6.0\Lab 5.1 PrimeNumbers.dll
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\bin\Debug\net6.0\Lab 5.1 PrimeNumbers.pdb
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.csproj.AssemblyReference.cache
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.AssemblyInfoInputs.cache
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.AssemblyInfo.cs
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.dll
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\refint\Lab 5.1 PrimeNumbers.dll
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.pdb
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\Lab 5.1 PrimeNumbers.genruntimeconfig.cache
+C:\Grand Circus\Week5\Lab 5.1 PrimeNumbers\obj\Debug\net6.0\ref\Lab 5.1 PrimeNumbers.dll

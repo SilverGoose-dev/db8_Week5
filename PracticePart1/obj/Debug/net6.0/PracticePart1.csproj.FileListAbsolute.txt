@@ -1,0 +1,15 @@
+C:\Grand Circus\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.exe
+C:\Grand Circus\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.deps.json
+C:\Grand Circus\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.runtimeconfig.json
+C:\Grand Circus\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.dll
+C:\Grand Circus\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.pdb
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.csproj.AssemblyReference.cache
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.AssemblyInfoInputs.cache
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.AssemblyInfo.cs
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.dll
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\refint\PracticePart1.dll
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.pdb
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.genruntimeconfig.cache
+C:\Grand Circus\Week5\PracticePart1\obj\Debug\net6.0\ref\PracticePart1.dll

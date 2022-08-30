@@ -1,0 +1,15 @@
+C:\Grand Circus\Week5\ClassReview\bin\Debug\net6.0\ClassReview.exe
+C:\Grand Circus\Week5\ClassReview\bin\Debug\net6.0\ClassReview.deps.json
+C:\Grand Circus\Week5\ClassReview\bin\Debug\net6.0\ClassReview.runtimeconfig.json
+C:\Grand Circus\Week5\ClassReview\bin\Debug\net6.0\ClassReview.dll
+C:\Grand Circus\Week5\ClassReview\bin\Debug\net6.0\ClassReview.pdb
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.csproj.AssemblyReference.cache
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.AssemblyInfoInputs.cache
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.AssemblyInfo.cs
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.dll
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\refint\ClassReview.dll
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.pdb
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ClassReview.genruntimeconfig.cache
+C:\Grand Circus\Week5\ClassReview\obj\Debug\net6.0\ref\ClassReview.dll

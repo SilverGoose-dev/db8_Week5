@@ -1,0 +1,15 @@
+C:\Grand Circus\Week5\CalcApp\bin\Debug\net6.0\CalcApp.exe
+C:\Grand Circus\Week5\CalcApp\bin\Debug\net6.0\CalcApp.deps.json
+C:\Grand Circus\Week5\CalcApp\bin\Debug\net6.0\CalcApp.runtimeconfig.json
+C:\Grand Circus\Week5\CalcApp\bin\Debug\net6.0\CalcApp.dll
+C:\Grand Circus\Week5\CalcApp\bin\Debug\net6.0\CalcApp.pdb
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.csproj.AssemblyReference.cache
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfoInputs.cache
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfo.cs
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.dll
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\refint\CalcApp.dll
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.pdb
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\CalcApp.genruntimeconfig.cache
+C:\Grand Circus\Week5\CalcApp\obj\Debug\net6.0\ref\CalcApp.dll

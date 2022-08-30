@@ -1,0 +1,15 @@
+C:\Grand Circus\Week5\PigLatin\bin\Debug\net6.0\PigLatin.exe
+C:\Grand Circus\Week5\PigLatin\bin\Debug\net6.0\PigLatin.deps.json
+C:\Grand Circus\Week5\PigLatin\bin\Debug\net6.0\PigLatin.runtimeconfig.json
+C:\Grand Circus\Week5\PigLatin\bin\Debug\net6.0\PigLatin.dll
+C:\Grand Circus\Week5\PigLatin\bin\Debug\net6.0\PigLatin.pdb
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.csproj.AssemblyReference.cache
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfoInputs.cache
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfo.cs
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.csproj.CoreCompileInputs.cache
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.dll
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\refint\PigLatin.dll
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.pdb
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\PigLatin.genruntimeconfig.cache
+C:\Grand Circus\Week5\PigLatin\obj\Debug\net6.0\ref\PigLatin.dll
